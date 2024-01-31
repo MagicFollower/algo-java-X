@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.util.*;
 
 /**
- * 10中排序算法
+ * 10种排序算法
  * <pre>
  * 01.选择排序
  * 02.冒泡排序
@@ -20,12 +20,12 @@ import java.util.*;
  * 10.堆排序(构建大堆首尾交换堆排序，大堆排序后获取顺序数据)
  * </pre>
  *
- * @Description SortTest3
+ * @Description SortTest
  * @Author abc
  * @Date 24/01/30 13:49
  * @Version 1.0
  */
-public class SortTest10 {
+public class SortTest {
     @Test
     public void test_SortTest3_1706593801603() {
         Gson gson = new Gson();
