@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>ten_sort_algo</artifactId>
+    <artifactId>sort</artifactId>
     <version>1.0.0</version>
 
     <properties>
